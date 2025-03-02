@@ -19,3 +19,32 @@ Welcome to the **Number Guessing Game**! This is a simple Python game where you 
    git clone https://github.com/BBismaarshad/Ramadan-Coding-Nights-Challenge/number_guessing_game.git
    ```
    
+2.Navigate to the folder where the game is saved:
+
+```cmd
+cd app
+```
+3.Run the Python script:
+
+```cmd
+python app.py
+```
+4.Enjoy playing the game!
+#Example Output
+
+```terminal
+Welcome to the game, this is a number guessing game!
+You got 5 attempts to guess the number between 50 and 100
+Let's start the game!
+Please enter your guess: 60
+Your guess is too high, try again!
+Please enter your guess: 45
+Your guess is too low, try again!
+Please enter your guess: 55
+Your guess is too low, try again!
+Please enter your guess: 65
+Your guess is too high, try again!
+Please enter your guess: 60
+The number is 60 and you found it right! in the 5th attempt
+```
+
