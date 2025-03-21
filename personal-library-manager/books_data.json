@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Eloquent JavaScript",
+        "author": " Marijn Haverbeke",
+        "year": "2011 (Updated in 2018)",
+        "genre": "JavaScript Programming",
+        "read": false
+    },
+    {
+        "title": "\"You Don't Know JS",
+        "author": "Kyle Simpson",
+        "year": "2014-2015",
+        "genre": "JavaScript Programming",
+        "read": false
+    }
+]
