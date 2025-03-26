@@ -2,7 +2,7 @@
 
 A secure and customizable password generator web application built with Streamlit. Generate strong passwords with various complexity options and check their strength.
 
-![Password Generator ](https://ramadan-coding-nights-challenge-achg5entlajxkgu83hs3pn.streamlit.app/) 
+[Password Generator ](https://ramadan-coding-nights-challenge-achg5entlajxkgu83hs3pn.streamlit.app/) 
 
 ## Features
 
