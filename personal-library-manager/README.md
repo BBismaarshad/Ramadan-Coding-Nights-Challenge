@@ -1,4 +1,4 @@
-#personal-library-manager 📚
+# personal-library-manager 📚
 A Python-based command-line application to manage your personal book collection, track reading progress, and organize your reading materials.
 
 ##Features ✨
