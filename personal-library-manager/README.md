@@ -24,7 +24,8 @@ Clone this repository or download the ```main.py``` file
 No additional dependencies required!
 
 ## Usage 🚀
-``` Run the application with:
+Run the application with:
+```
 python main.py
 ```
  ## Menu Options:
