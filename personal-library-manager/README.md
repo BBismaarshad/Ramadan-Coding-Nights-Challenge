@@ -1,7 +1,7 @@
 # personal-library-manager 📚
 A Python-based command-line application to manage your personal book collection, track reading progress, and organize your reading materials.
 
-##Features ✨
+## Features ✨
 Add new books to your collection with details like title, author, year, genre
 
 Remove books you no longer want to track
@@ -16,18 +16,18 @@ Track reading progress with completion statistics
 
 Persistent storage - all data saved to a JSON file
 
-##Installation ⚙️
+## Installation ⚙️
 Make sure you have Python 3.x installed
 
-Clone this repository or download the main.py file
+Clone this repository or download the ```main.py``` file
 
 No additional dependencies required!
 
-##Usage 🚀
+## Usage 🚀
 ```Run the application with:
 python main.py
 ```
-##Menu Options:
+ ## Menu Options:
 Add a new book - Enter book details to add to your collection
 
 Remove a book - Delete a book by title
@@ -42,10 +42,10 @@ View reading progress - Check your reading statistics
 
 Exit - Quit the application
 
-##Data Storage 💾
+## Data Storage 💾
 All book data is automatically saved to books_data.json in the same directory. The file will be created automatically when you add your first book.
 
-##Example Book Entry 📖
+## Example Book Entry 📖
 ```json
 
 {
@@ -56,7 +56,7 @@ All book data is automatically saved to books_data.json in the same directory. T
     "read": true
 }
 ```
-##Contributing 🤝
+## Contributing 🤝
 Contributions are welcome! Please open an issue or pull request for any improvements.
 
 
