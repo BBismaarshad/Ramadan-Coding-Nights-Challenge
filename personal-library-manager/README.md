@@ -50,12 +50,12 @@ All book data is automatically saved to books_data.json in the same directory. T
 ```json
 
 {
-    "title": "The Hobbit",
-    "author": "J.R.R. Tolkien",
-    "year": "1937",
-    "genre": "Fantasy",
-    "read": true
-}
+        "title": "Eloquent JavaScript",
+        "author": " Marijn Haverbeke",
+        "year": "2011 (Updated in 2018)",
+        "genre": "JavaScript Programming",
+        "read": false
+    },
 ```
 ## Contributing 🤝
 Contributions are welcome! Please open an issue or pull request for any improvements.
