@@ -19,7 +19,8 @@ A simple interactive quiz application built with Streamlit to test your TypeScri
 
 ## Installation
 
-1. Clone this repository: 
+1. Clone this repository:
+
    ```
    git clone https://github.com/BBismaarshad/Ramadan-Coding-Nights-Challenge/tree/master/quiz-app
    ```
@@ -27,12 +28,14 @@ A simple interactive quiz application built with Streamlit to test your TypeScri
    cd quiz-app
    ```
 2. Install the required dependencies:
+   
 ```
-pip install streamlit
+   pip install streamlit
 ```
 3. Run the application:
+   
 ```
-streamlit run main.py
+   streamlit run main.py
 ```
 ## Usage
 1. The app will open in your default browser
