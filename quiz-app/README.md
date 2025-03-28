@@ -26,7 +26,7 @@ A simple interactive quiz application built with Streamlit to test your TypeScri
    ```
    cd quiz-app
    ```
-## Install the required dependencies:
+## 2. Install the required dependencies:
 ```
 pip install streamlit
 ```
