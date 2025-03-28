@@ -2,7 +2,7 @@
 
 A simple interactive quiz application built with Streamlit to test your TypeScript knowledge. The app presents random TypeScript questions and provides immediate feedback on your answers.
 
-![TypeScript Quiz App ](https://quiz-app-nclwxemdsmzx8fwnzyqotv.streamlit.app/)
+[TypeScript Quiz App ](https://quiz-app-nclwxemdsmzx8fwnzyqotv.streamlit.app/)
 
 ## Features
 
