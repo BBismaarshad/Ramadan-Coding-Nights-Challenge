@@ -22,5 +22,7 @@ A simple interactive quiz application built with Streamlit to test your TypeScri
 1. Clone this repository:
    ```bash
    git clone https://github.com/BBismaarshad/Ramadan-Coding-Nights-Challenge/tree/master/quiz-app
+   ```
+   ```
    cd quiz-app
    ```
