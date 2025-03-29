@@ -8,13 +8,13 @@ User-friendly interface with clean layout
 
 Supports four basic mathematical operations:
 
-Addition (+)
+Addition (➕)
 
-Subtraction (-)
+Subtraction (➖)
 
-Multiplication (*)
+Multiplication (✖️)
 
-Division (/)
+Division (➗)
 
 Error handling for division by zero
 
@@ -41,6 +41,8 @@ streamlit run main.py
 4. Enter two numbers and select an operation
 
 5. Click the "Calculate" button to see the result
+
+🖩(Simple Calculator App)[https://simple-calculatorfrv4bv22ocgptkynmr6bry.streamlit.app/]
 
 ## How It Works
 
