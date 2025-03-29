@@ -42,8 +42,7 @@ streamlit run main.py
 
 5. Click the "Calculate" button to see the result
 
-🖩(Simple Calculator App)[https://simple-calculatorfrv4bv22ocgptkynmr6bry.streamlit.app/]
-
+🖩 [Simple Calculator ](https://simple-calculatorfrv4bv22ocgptkynmr6bry.streamlit.app/) 
 ## How It Works
 
 The application presents two number input fields side by side
