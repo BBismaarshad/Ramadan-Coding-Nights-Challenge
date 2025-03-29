@@ -34,7 +34,7 @@ pip install streamlit
 
 2. Run the application:
 ```
-streamlit run calculator.py
+streamlit run main.py
 ```
 3. The app will open in your default web browser
 
