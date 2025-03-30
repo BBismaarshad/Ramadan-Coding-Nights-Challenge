@@ -26,10 +26,10 @@ A simple Python-based number guessing game where the player has 5 attempts to gu
 
 ## How to Run
 
-1. Save the code as `number_guessing_game.py`
+1. Save the code as `app.py`
 2. Open a terminal/command prompt
 3. Navigate to the directory containing the file
-4. Run the command: `python number_guessing_game.py`
+4. Run the command: `python app.py`
 
 ## Code Overview
 
