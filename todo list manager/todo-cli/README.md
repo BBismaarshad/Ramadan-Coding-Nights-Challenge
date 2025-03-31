@@ -19,3 +19,10 @@ A simple command-line To-Do List Manager built with Python and Click.
    ```
    cd todo
    ```
+2. Make sure you have Python 3.x installed
+
+3. Install the required dependencies:
+   ```
+   pip install click
+   ```
+   
