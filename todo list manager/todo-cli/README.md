@@ -13,6 +13,9 @@ A simple command-line To-Do List Manager built with Python and Click.
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/todo-list-manager.git
-   cd todo-list-manager
+   ```
+   git clone https://github.com/BBismaarshad/Ramadan-Coding-Nights-Challenge/tree/master/todo%20list%20manager/todo-cli
+   ```
+   ```
+   cd todo
+   ```
