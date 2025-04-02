@@ -2,7 +2,7 @@
 
 A simple web-based unit converter built with Streamlit that handles basic metric unit conversions.
 
-![Unit Converter Demo](https://unit-converte-uc.streamlit.app/) *(Replace with actual screenshot)*
+[Unit Converter Demo](https://unit-converte-uc.streamlit.app/) *(Replace with actual screenshot)*
 
 ## Features
 
@@ -31,7 +31,7 @@ A simple web-based unit converter built with Streamlit that handles basic metric
 ## Installation
 
 1. Clone this repository:
+
    ```
    git clone https://github.com/BBismaarshad/Ramadan-Coding-Nights-Challenge/tree/master/unit-converter
-
    ```
